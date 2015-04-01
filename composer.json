@@ -8,7 +8,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-         "composer/composer": "dev-master"
+         "composer/composer": "1.0.0-alpha9"
     },
     "autoload": {
         "psr-4": {

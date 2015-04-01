@@ -1,0 +1,6 @@
+{
+    "name": "Manager",
+    "description": "Manager for MATA CMS",
+    "icon" : "/images/module-icon.svg",
+    "version" : 1.0
+}
